@@ -10,8 +10,8 @@
                 <div class="header-body text-center mb-7">
                     <div class="row justify-content-center">
                         <div class="col-xl-5 col-lg-6 col-md-8 px-5">
-                            <h1 class="text-white">Welcome!</h1>
-                            <p class="text-lead text-white">Use these awesome forms to login or create new account for free.
+                            <h1 class="text-white">Selamat datangd!</h1>
+                            <p class="text-lead text-white">Silahkan masuk untuk melanjutkan ke aplikasi
                             </p>
                         </div>
                     </div>
